@@ -16,6 +16,7 @@ class Post < ActiveRecord::Base
   end
 
   def email_author_about_post
+    
   end
 
   def make_title_case
